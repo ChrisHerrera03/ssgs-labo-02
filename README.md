@@ -23,8 +23,7 @@ Buona analisi e buon lavoro!
 
 ## Installazione e Avvio
 
-*(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
-
----
-
-*Suggerimento: Presta particolare attenzione ai requisiti dell'Esercizio 1 del laboratorio per completare e correggere questo README e gli altri file di configurazione.*
+### Comandi utili:
+* `npm ci` comando usato per poter installare le dipendenze in modo deterministico
+* `npm start`: comando che permette di avviare l'applicazione, evitando di usare ripetutamente `node index.js`
+* `npm test`: comando che permette di eseguire i test
