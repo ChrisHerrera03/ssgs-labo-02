@@ -4,7 +4,7 @@
   "description": "Applicazione in Node.js che offre diverse utilità per la manipolazione di stringhe",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage --coverageReporters=text --coverageReporters=html --coverageDirectory=coverag",
     "start": "node index.js"
   },
   "keywords": ["strings", "manipolazione", "javascript","nodejs"],
