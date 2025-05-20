@@ -25,5 +25,6 @@ Buona analisi e buon lavoro!
 
 ### Comandi utili:
 * `npm ci` comando usato per poter installare le dipendenze in modo deterministico
-* `npm start`: comando che permette di avviare l'applicazione, evitando di usare ripetutamente `node index.js`
+* **!!Attenzione, rettifica!!**  `npm start`: comando che permette di avviare l'applicazione, evitando di usare ripetutamente `node index.js`
+Si consiglia di avviare l'applicazione direttamente sul terminale inserendo `node index.js <numero_funzione> <stringa_input> [parametro_aggiuntivo]` in quanto usando `npm start` si producono errori dovuti alla mancanza di paramatri che si trovano dopo `node index.js`
 * `npm test`: comando che permette di eseguire i test
